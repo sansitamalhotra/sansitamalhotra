@@ -95,16 +95,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sansitamalhotra&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [linkedin.com/in/sansitamalhotra](https://linkedin.com/in/sansitamalhotra)
