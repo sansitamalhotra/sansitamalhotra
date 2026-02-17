@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎓 Computer Engineering @ University of Toronto | 💼 Full Stack Developer | 🏆 2x Hackathon Winner
+### 🎓 Computer Engineering @ University of Toronto | 💼 Full Stack Developer | 🏆 Hackathon Winner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sansitamalhotra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malhotrasansita@gmail.com)
@@ -15,10 +15,10 @@
 
 - 🎯 2nd-year Computer Engineering student at **UofT** (Class of 2029)
 - 💼 **2.5 years** of production experience as a Full Stack Developer
-- 🏆 Won **1st place** at **NewHacks 2025** & **Hack the Valley X**
+- 🏆 Won **1st place** at **NewHacks 2025**
 - 🔬 Interested in **AI, medical tech, FPGA/hardware**, and **game development**
-- 📚 Pursuing minors in **Artificial Intelligence** and **Bioengineering**
-- 💡 Currently seeking **Winter 2026 internship opportunities**
+- 📚 Pursuing minors in **Artificial Intelligence**
+- 💡 Currently seeking **Summer 2026 internship opportunities**
 
 ---
 
